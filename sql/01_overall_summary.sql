@@ -1,4 +1,3 @@
-Query 1: Overall compliance summary across all 60 companies
 SELECT
   COUNT(*) AS total_companies,
   ROUND(AVG(compliance_score), 2) AS avg_compliance_score,
