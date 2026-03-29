@@ -1,1 +1,61 @@
-
+﻿company_id,company_name,sector,country,date_collected,has_ai_policy,has_ethics_board,has_transparency_report,has_data_protection,has_external_audit,mentions_eu_ai_act,compliance_score
+SAP_001,SAP SE,Technology & Digital,Germany,27-03-2026,1,1,1,1,1,1,6
+ASML_002,ASML Holding N.V.,Technology & Digital,Netherlands,27-03-2026,1,1,1,1,1,1,6
+Capegemini_003,Capgemini SE,Technology & Digital,France,27-03-2026,1,1,1,1,1,1,6
+Dassault_004,Dassault Systèmes SE,Technology & Digital,France,27-03-2026,1,1,1,1,1,1,6
+Infineon_005,Infineon Technologies AG,Technology & Digital,Germany,27-03-2026,1,1,1,1,1,1,6
+Ericcson_006,Telefonaktiebolaget LM Ericsson,Technology & Digital,Sweden,27-03-2026,1,1,1,1,1,1,6
+Nokia_007,Nokia Corporation,Technology & Digital,Finland,27-03-2026,1,1,1,1,1,1,6
+STMicroelectronics_008,STMicroelectronics N.V.,Technology & Digital,France/Italy,27-03-2026,1,0,1,1,1,1,5
+Adyen_009,Adyen N.V.,Technology & Digital,Netherlands,27-03-2026,1,1,0,1,1,1,5
+TeamViewer_010,TeamViewer SE,Technology & Digital,Germany,27-03-2026,1,0,0,1,1,1,4
+Atos_011,Atos SE,Technology & Digital,France,27-03-2026,1,1,1,1,1,1,6
+Hexagon_012,Hexagon AB,Technology & Digital,Sweden,27-03-2026,1,1,0,1,1,1,5
+Deutsche Bank_013,Deutsche Bank AG,Finance & Insurance,Germany,27-03-2026,1,1,1,1,1,1,6
+BNP Paribas_014,BNP Paribas S.A.,Finance & Insurance,France,27-03-2026,1,1,1,1,1,1,6
+ING_015,ING Groep N.V.,Finance & Insurance,Netherlands,27-03-2026,1,1,0,1,1,1,5
+Allianz_016,Allianz SE,Finance & Insurance,Germany,27-03-2026,1,1,1,1,1,1,6
+AXA_017,AXA S.A.,Finance & Insurance,France,27-03-2026,1,1,1,1,1,1,6
+Société Générale_018,Société Générale S.A.,Finance & Insurance,France,27-03-2026,1,1,1,1,1,1,6
+Sanatander_019,"Banco Santander, S.A.",Finance & Insurance,Spain,27-03-2026,1,1,0,1,1,1,5
+BBVA_020,"Banco Bilbao Vizcaya Argentaria, S.A.",Finance & Insurance,Spain,27-03-2026,1,1,1,1,1,1,6
+Commerzbank_021,Commerzbank AG,Finance & Insurance,Germany,27-03-2026,1,1,0,1,1,1,5
+UniCredit_022,UniCredit S.p.A.,Finance & Insurance,Italy,27-03-2026,1,1,0,1,1,1,5
+Intesa Sanpaolo_023,Intesa Sanpaolo S.p.A.,Finance & Insurance,Italy,27-03-2026,1,1,1,1,1,1,6
+Rabobank_024,Coöperatieve Rabobank U.A.,Finance & Insurance,Netherlands,27-03-2026,1,1,1,1,1,1,6
+Bayer_025,Bayer AG,Healthcare & Pharmaceuticals,Germany,27-03-2026,1,1,1,1,1,1,6
+Sanofi_026,Sanofi S.A.,Healthcare & Pharmaceuticals,France,27-03-2026,1,1,1,1,1,1,6
+Merck KGaA_027,Merck KGaA,Healthcare & Pharmaceuticals,Germany,27-03-2026,1,1,1,1,1,1,6
+Philips_028,Koninklijke Philips N.V.,Healthcare & Pharmaceuticals,Netherlands,27-03-2026,1,1,1,1,1,1,6
+Novo Nordisk_029,Novo Nordisk A/S,Healthcare & Pharmaceuticals,Denmark,27-03-2026,1,1,1,1,1,1,6
+AstraZeneca_030,AstraZeneca PLC,Healthcare & Pharmaceuticals,Sweden/UK,27-03-2026,1,1,1,1,1,1,6
+Fresenius_031,Fresenius SE & Co. KGaA,Healthcare & Pharmaceuticals,Germany,27-03-2026,1,1,1,1,1,1,6
+BioNTech_032,BioNTech SE,Healthcare & Pharmaceuticals,Germany,27-03-2026,1,1,1,1,1,1,6
+UCB_033,UCB S.A.,Healthcare & Pharmaceuticals,Belgium,27-03-2026,1,1,1,1,1,1,6
+EssilorLuxottica_034,EssilorLuxottica S.A.,Healthcare & Pharmaceuticals,France/Italy,27-03-2026,1,1,0,1,1,1,5
+Volkswagen_035,Volkswagen AG,Automotive & Industrial,Germany,27-03-2026,1,1,1,1,1,1,6
+BMW_036,Bayerische Motoren Werke AG,Automotive & Industrial,Germany,27-03-2026,1,1,1,1,1,1,6
+Mercedes-Benz_037,Mercedes-Benz Group AG,Automotive & Industrial,Germany,27-03-2026,1,1,1,1,1,1,6
+Stellantis_038,Stellantis N.V.,Automotive & Industrial,Netherlands/France/Italy,27-03-2026,1,1,0,1,1,1,5
+Renault_039,Renault S.A.,Automotive & Industrial,France,27-03-2026,1,1,1,1,1,1,6
+Continental_040,Continental AG,Automotive & Industrial,Germany,27-03-2026,1,1,1,1,1,1,6
+Michelin_041,Cie Générale des Établissements Michelin,Automotive & Industrial,France,27-03-2026,1,1,1,1,1,1,6
+Volvo_042,AB Volvo,Automotive & Industrial,Sweden,27-03-2026,1,1,1,1,1,1,6
+Siemens_043,Siemens AG,Automotive & Industrial,Germany,27-03-2026,1,1,1,1,1,1,6
+ABB_044,ABB Ltd,Automotive & Industrial,Switzerland,27-03-2026,1,1,1,1,1,1,6
+Schneider_045,Schneider Electric SE,Automotive & Industrial,France,27-03-2026,1,1,1,1,1,1,6
+Alstom_046,Alstom S.A.,Automotive & Industrial,France,27-03-2026,1,1,1,1,1,1,6
+IKEA_047,Inter IKEA Holding B.V.,Retail & Consumer Goods,Sweden,27-03-2026,1,1,1,1,1,1,6
+Inditex/Zara_048,"Industria de Diseño Textil, S.A. (Inditex)",Retail & Consumer Goods,Spain,27-03-2026,1,1,0,1,1,1,5
+L'Oréal_049,L'Oréal S.A.,Retail & Consumer Goods,France,27-03-2026,1,1,1,1,1,1,6
+Carrefour_050,Carrefour S.A.,Retail & Consumer Goods,France,27-03-2026,1,1,0,1,1,1,5
+Adidas_051,Adidas AG,Retail & Consumer Goods,Germany,27-03-2026,1,1,1,1,1,1,6
+Ahold Delhaize_052,Koninklijke Ahold Delhaize N.V.,Retail & Consumer Goods,Netherlands,27-03-2026,1,1,1,1,1,1,6
+H&M_053,H & M Hennes & Mauritz AB,Retail & Consumer Goods,Sweden,27-03-2026,1,1,0,1,1,1,5
+Zalando_054,Zalando SE,Retail & Consumer Goods,Germany,27-03-2026,1,1,1,1,1,1,6
+Metro_055,Metro AG,Retail & Consumer Goods,Germany,27-03-2026,1,1,0,1,1,1,5
+LVMH_056,LVMH Moët Hennessy Louis Vuitton SE,Retail & Consumer Goods,France,27-03-2026,1,1,0,1,1,1,5
+Heineken_057,Heineken N.V.,Retail & Consumer Goods,Netherlands,27-03-2026,1,1,0,1,1,1,5
+Danone_058,Danone S.A.,Retail & Consumer Goods,France,27-03-2026,1,1,0,1,1,1,5
+Puma_059,Puma SE,Retail & Consumer Goods,Germany,27-03-2026,1,1,0,1,1,1,5
+Leroy Merlin_060,Leroy Merlin S.A. (ADEO Group),Retail & Consumer Goods,France,27-03-2026,1,1,0,1,1,1,5
